@@ -1,4 +1,4 @@
-# Grupo_ISPC
+# Grupo 16 ISPC
 
 ## Integrantes
 
@@ -11,3 +11,6 @@
 
 ### Bibliografía
 Aprendizaje automático práctico con Scikit-Learn, Keras y TensorFlow
+
+### Links
+https://trello.com/b/bIQ6Q96K/ISPC
