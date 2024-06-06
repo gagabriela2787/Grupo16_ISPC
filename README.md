@@ -15,5 +15,5 @@ Aprendizaje automático práctico con Scikit-Learn, Keras y TensorFlow
 ### Links
 Trello: https://trello.com/b/bIQ6Q96K/ISPC
 
-Drive: https://drive.google.com/drive/folders/1U3oaXOXbUyhX-OhRo70VTedZSkJsErLO?usp=drive_link
+Drive: https://drive.google.com/drive/folders/1MGtcoDCaC7B-_fdwKJ0lTMvAKIQq4PvH?usp=drive_link 
 
